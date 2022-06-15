@@ -1,3 +1,3 @@
-# from galaxy
-- name: redhat.rhel_system_roles
-- name: redhat.satellite
+collections:
+  - name: redhat.rhel_system_roles
+  - name: redhat.satellite
