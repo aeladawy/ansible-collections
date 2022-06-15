@@ -4,5 +4,5 @@ collections:
     version: 0.9.3
     source: https://galaxy.ansible.com
     
-  - name: lucab85.ansible_role_motd
-    source: https://galaxy.ansible.com
+  #- name: lucab85.ansible_role_motd
+  #  source: https://galaxy.ansible.com
